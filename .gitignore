@@ -1,0 +1,75 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Encryption-Decryption/*
+!/Encryption-Decryption/task/
+/Encryption-Decryption/task/*
+!/Encryption-Decryption/task/src/
+!/Encryption-Decryption/task/build.gradle
+!/Encryption-Decryption/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Arrays/Printing the last element/out/
+/Topics/Arrays/Printing the last element/out/production/classes/
+/Topics/Equality/Equality/out/
+/Topics/Equality/Equality/out/production/classes/
+/Topics/For loop and lists/Individual taxes/out/
+/Topics/For loop and lists/Individual taxes/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Functional decomposition/Password decomposition/out/
+/Topics/Functional decomposition/Password decomposition/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/Getting substrings/Exchange/out/
+/Topics/Getting substrings/Exchange/out/production/classes/
+/Topics/If expression/Find the output (1)/out/
+/Topics/If expression/Find the output (1)/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Introduction to MutableList/Printing the last element/out/
+/Topics/Introduction to MutableList/Printing the last element/out/production/classes/
+/Topics/Processing strings/Compression algorithm/out/
+/Topics/Processing strings/Compression algorithm/out/production/classes/
+/Topics/Processing strings/The lucky ticket/out/
+/Topics/Processing strings/The lucky ticket/out/production/classes/
+/Topics/Ranges/At least one/out/
+/Topics/Ranges/At least one/out/production/classes/
+/Topics/Ranges/Job/out/
+/Topics/Ranges/Job/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Repeating blocks/Grades/out/
+/Topics/Repeating blocks/Grades/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/The main() function/Change program arguments/out/
+/Topics/The main() function/Change program arguments/out/production/classes/
+/Topics/When expression/FTN-Numbers/out/
+/Topics/When expression/FTN-Numbers/out/production/classes/
+/Topics/When expression/Harry Potter/out/
+/Topics/When expression/Harry Potter/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/Shape/out/
+/Topics/When expression/Shape/out/production/classes/
